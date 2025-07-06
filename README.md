@@ -48,6 +48,8 @@ Passionate about building robust web applications and REST APIs.
 📫 **Contact**
 
 - Email: [artur.cha@outlook.com](mailto:artur.cha@outlook.com)
+- 🔗 [My LinkedIn](https://www.linkedin.com/in/artur-charyło-9554a1373/)
+- 💻 [GitHub](https://github.com/ArturCharylo)
 - Location: Szczecin, Poland (open to remote & stationary work)
 
 ---
