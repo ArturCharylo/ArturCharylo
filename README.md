@@ -5,17 +5,17 @@ Passionate about building robust web applications and REST APIs.
 
 🚀 **About me**
 
-- IT technician with internship experience in DevOps and system setup
-- Strong background in Python, Node.js and React (TS/JS)
-- Keen to expand my tech stack and learn new technologies
-- Looking for opportunities as a backend or full-stack developer (remote or on-site)
+- 🎓 IT technician with internship experience in DevOps and system setup
+- 💻 Strong background in Python, Node.js and React (TS/JS)
+- 🌱 Keen to expand my tech stack and learn new technologies
+- 🔍 Looking for opportunities as a backend or full-stack developer (remote or on-site)
 
 💡 **Tech stack**
 
-- **Backend:** Python, Django, FastAPI, Node.js, Express
-- **Frontend:** React (TypeScript/JavaScript)
-- **Databases:** PostgreSQL, MongoDB, Firebase
-- **DevOps & Tools:** Docker, Git, GitLab CI/CD, JIRA, LDAP
+- 🖥️ **Backend:** Python, Django, FastAPI, Node.js, Express
+- 🖥️ **Frontend:** React (TypeScript, JavaScript)
+- 🗄️ **Databases:** PostgreSQL, Firebase
+- ⚙️ **DevOps & Tools:** Docker, Git, GitLab CI/CD, JIRA, LDAP
 
 🌟 **Highlighted projects**
 
@@ -38,7 +38,12 @@ Passionate about building robust web applications and REST APIs.
 🎓 **Education**
 
 - Technical School SCI (IT Technician, bilingual program) — 2020–2025
-- Planned: BSc in Computer Science, West Pomeranian University of Technology(ZUT) (from Oct 2025)
+- Planned: BSc in Computer Science, West Pomeranian University of Technology (ZUT) (from Oct 2025)
+
+🚀 **Currently learning**
+
+- Advanced Python (unit testing, design patterns, data analysing)
+- Docker and deployment
 
 🌍 **Languages**
 
@@ -49,7 +54,6 @@ Passionate about building robust web applications and REST APIs.
 
 - Email: [artur.cha@outlook.com](mailto:artur.cha@outlook.com)
 - 🔗 [My LinkedIn](https://www.linkedin.com/in/artur-charyło-9554a1373/)
-- 💻 [GitHub](https://github.com/ArturCharylo)
 - Location: Szczecin, Poland (open to remote & stationary work)
 
 ---
