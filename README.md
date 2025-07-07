@@ -3,6 +3,17 @@
 🎓 **Junior Backend Developer** based in Szczecin, Poland  
 Passionate about building robust web applications and REST APIs.
 
+📌 **Internship experience**
+
+> Deployed GitLab & JIRA servers with Docker, integrated LDAP authentication,  
+> configured CI/CD pipelines, implemented monitoring & backup strategies,  
+> and delivered team training & full technical documentation.
+
+🎓 **Education**
+
+- Technical School SCI (IT Technician, bilingual program) — 2020–2025
+- Planned: BSc in Computer Science, West Pomeranian University of Technology (ZUT) (from Oct 2025)
+  
 🚀 **About me**
 
 - 🎓 IT technician with internship experience in DevOps and system setup
@@ -29,16 +40,6 @@ Passionate about building robust web applications and REST APIs.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCharylo&layout=compact&theme=radical)
 
-📌 **Internship experience**
-
-> Deployed GitLab & JIRA servers with Docker, integrated LDAP authentication,  
-> configured CI/CD pipelines, implemented monitoring & backup strategies,  
-> and delivered team training & full technical documentation.
-
-🎓 **Education**
-
-- Technical School SCI (IT Technician, bilingual program) — 2020–2025
-- Planned: BSc in Computer Science, West Pomeranian University of Technology (ZUT) (from Oct 2025)
 
 🚀 **Currently learning**
 
