@@ -12,7 +12,7 @@ Passionate about building robust web applications and REST APIs.
 🎓 **Education**
 
 - Technical School SCI (IT Technician, bilingual program) — 2020–2025
-- Planned: BSc in Computer Science, West Pomeranian University of Technology (ZUT) (from Oct 2025)
+- Ongoing: BSc in Computer Science, West Pomeranian University of Technology (ZUT) (from Oct 2025)
   
 🚀 **About me**
 
