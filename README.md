@@ -45,7 +45,7 @@ Passionate about building robust web applications and REST APIs.
 🚀 **Currently learning**
 
 - Advanced Python (unit testing, design patterns, data analysing)
-- Docker and deployment
+- deployment and Automation(CI/CD)
 
 🌍 **Languages**
 
