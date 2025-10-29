@@ -17,7 +17,7 @@ Passionate about building robust web applications and REST APIs.
 ### 🏆 Certificate
 
 <p align="center">
-  <img src="./images/certificate_cpp.png" alt="C++ Certificate" width="600"/>
+  <img src="./images/certificate_rvue.fJFH.ORBo.png" alt="C++ Certificate" width="600"/>
 </p>
 
 🚀 **About me**
