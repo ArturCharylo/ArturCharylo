@@ -13,9 +13,13 @@ Passionate about building robust web applications and REST APIs.
 
 - Technical School SCI (IT Technician, bilingual program) — 2020–2025
 - Ongoing: BSc in Computer Science, West Pomeranian University of Technology (ZUT) (from Oct 2025)
-- [C++ Certificate](https://github.com/user-attachments/files/23163452/certificate_rvue.fJFH.ORBo.pdf)
-- [C++ Certificate Preview](./images/certificate_rvue.fJFH.ORBo.png)
-  
+- 
+### 🏆 Certificate
+
+<p align="center">
+  <img src="./images/certificate_cpp.png" alt="C++ Certificate" width="600"/>
+</p>
+
 🚀 **About me**
 
 - 🎓 IT technician with internship experience in DevOps and system setup
