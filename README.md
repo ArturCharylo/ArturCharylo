@@ -52,6 +52,7 @@ Passionate about building robust web applications and REST APIs.
 
 - Advanced Python (unit testing, design patterns, data analysing)
 - deployment and Automation(CI/CD)
+- Dart and Flutter
 
 🌍 **Languages**
 
