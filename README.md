@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Artur Charyło
 
-🎓 **Junior Backend Developer** based in Szczecin, Poland  
+🎓 **Junior Fullstack Developer** based in Szczecin, Poland  
 Passionate about building robust web applications and REST APIs.
 
 📌 **Internship experience**
