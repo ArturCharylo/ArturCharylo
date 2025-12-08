@@ -42,11 +42,11 @@ Passionate about building robust web applications and REST APIs.
 
 ### 📊 GitHub Stats
 
-![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturCharylo&show_icons=true&theme=radical)
+![Artur's GitHub stats](https://readme-stats-ruby-iota.vercel.app/api?username=ArturCharylo&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArturCharylo&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturCharylo&layout=compact&theme=radical)
+![Top Langs](https://readme-stats-ruby-iota.vercel.app/api/top-langs/?username=ArturCharylo&layout=compact&theme=radical)
 
 
 🚀 **Currently learning**
