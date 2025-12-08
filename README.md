@@ -36,6 +36,7 @@ Passionate about building robust web applications and REST APIs.
 
 🌟 **Highlighted projects**
 
+- [Cryptono](https://github.com/ArturCharylo/Cryptono) - Password manager built as an extension for chrome in Vite + Vanilla TS
 - [ToDo_python](https://github.com/ArturCharylo/ToDo_python) – Python ToDo app with console, desktop & web interface connected to Django REST backend
 - [Pet_feeder](https://github.com/ArturCharylo/Pet_feeder) / [Live version](https://pet-feeder-five.vercel.app) - Serverless PWA for tracking pet feeding schedules, with offline support and local notifications
 
