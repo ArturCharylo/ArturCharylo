@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Artur Charyło
 
 🎓 **Junior Fullstack Developer** based in Szczecin, Poland  
-Passionate about building robust web applications and REST APIs.
+Passionate about building robust web applications, REST APIs, and Open Source tools.
 
 📌 **Internship experience**
 
@@ -24,21 +24,32 @@ Passionate about building robust web applications and REST APIs.
 
 - 🎓 IT technician with internship experience in DevOps and system setup
 - 💻 Strong background in Python, Node.js and React (TS/JS)
+- 📦 **NPM Package Author** & Open Source enthusiast
 - 🌱 Keen to expand my tech stack and learn new technologies
 - 🔍 Looking for opportunities as a backend or full-stack developer (remote or on-site)
 
 💡 **Tech stack**
 
-- 🖥️ **Backend:** Python, Django, FastAPI, Node.js, Express
+- 🖥️ **Backend & Core:** Python (Django, FastAPI), Node.js, C++, WebAssembly (WASM)
 - 🖥️ **Frontend:** React (TypeScript, JavaScript)
 - 🗄️ **Databases:** PostgreSQL, Firebase
-- ⚙️ **DevOps & Tools:** Docker, Git, GitLab CI/CD, JIRA, LDAP
+- ⚙️ **DevOps & Tools:** Docker, Git, GitLab CI/CD, JIRA, LDAP, NPM Publishing
 
 🌟 **Highlighted projects**
 
-- [Cryptono](https://github.com/ArturCharylo/Cryptono) - Password manager built as an extension for chrome in Vite + Vanilla TS
-- [ToDo_python](https://github.com/ArturCharylo/ToDo_python) – Python ToDo app with console, desktop & web interface connected to Django REST backend
-- [Pet_feeder](https://github.com/ArturCharylo/Pet_feeder) / [Live version](https://pet-feeder-five.vercel.app) - Serverless PWA for tracking pet feeding schedules, with offline support and local notifications
+- 📦 **[argon2-extension-mv3](https://github.com/ArturCharylo/argon2-extension-mv3)** [![npm](https://img.shields.io/npm/v/argon2-extension-mv3.svg?style=flat-square&label=npm)](https://www.npmjs.com/package/argon2-extension-mv3) / [github repo](https://github.com/ArturCharylo/argon2-extension-mv3)
+  - **NPM Library:** Secure, WebAssembly-based Argon2id implementation compatible with Chrome Extension Manifest V3.
+  - Solves critical Content Security Policy (CSP) issues by eliminating `unsafe-eval` in WASM glue code.
+
+- 🔐 **[Cryptono](https://github.com/ArturCharylo/Cryptono)**
+  - Password manager built as a Chrome Extension (Vite + Vanilla TS).
+  - **Powered by my own `argon2-extension-mv3` library** for secure client-side encryption.
+
+- 📝 **[ToDo_python](https://github.com/ArturCharylo/ToDo_python)**
+  - Python ToDo app with console, desktop & web interface connected to Django REST backend.
+
+- 🐾 **[Pet_feeder](https://github.com/ArturCharylo/Pet_feeder)** / [Live version](https://pet-feeder-five.vercel.app)
+  - Serverless PWA for tracking pet feeding schedules, with offline support and local notifications.
 
 ### 📊 GitHub Stats
 
@@ -51,8 +62,8 @@ Passionate about building robust web applications and REST APIs.
 
 🚀 **Currently learning**
 
-- Advanced Python (unit testing, design patterns, data analysing)
-- deployment and Automation(CI/CD)
+- Advanced Python (unit testing, design patterns, data analysis)
+- Deployment and Automation (CI/CD)
 - Dart and Flutter
 
 🌍 **Languages**
@@ -69,18 +80,3 @@ Passionate about building robust web applications and REST APIs.
 ---
 
 ⭐ _Feel free to explore my repositories below!_
-
-<!--
-**ArturCharylo/ArturCharylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
