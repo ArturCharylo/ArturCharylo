@@ -37,7 +37,7 @@ Passionate about building robust web applications, REST APIs, and Open Source to
 
 🌟 **Highlighted projects**
 
-- 📦 **[argon2-extension-mv3](https://github.com/ArturCharylo/argon2-extension-mv3)** [![npm](https://img.shields.io/npm/v/argon2-extension-mv3.svg?style=flat-square&label=npm)](https://www.npmjs.com/package/argon2-extension-mv3) / [github repo](https://github.com/ArturCharylo/argon2-extension-mv3)
+- 📦 **[argon2-extension-mv3 - repo](https://github.com/ArturCharylo/argon2-extension-mv3)** [![npm](https://img.shields.io/npm/v/argon2-extension-mv3.svg?style=flat-square&label=npm)](https://www.npmjs.com/package/argon2-extension-mv3)
   - **NPM Library:** Secure, WebAssembly-based Argon2id implementation compatible with Chrome Extension Manifest V3.
   - Solves critical Content Security Policy (CSP) issues by eliminating `unsafe-eval` in WASM glue code.
 
