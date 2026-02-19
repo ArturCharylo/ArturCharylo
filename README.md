@@ -44,6 +44,7 @@ Passionate about building robust web applications, REST APIs, and Open Source to
 - 🔐 **[Cryptono](https://github.com/ArturCharylo/Cryptono)**
   - Password manager built as a Chrome Extension (Vite + Vanilla TS).
   - **Powered by my own `argon2-extension-mv3` library** for secure client-side encryption.
+  - Data compression and decompression on import/export achieved with Brotli algorithm in rust compiled into WASM
 
 - 📝 **[ToDo_python](https://github.com/ArturCharylo/ToDo_python)**
   - Python ToDo app with console, desktop & web interface connected to Django REST backend.
