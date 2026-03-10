@@ -33,7 +33,7 @@ Passionate about building robust web applications, REST APIs, and Open Source to
 
 - 🖥️ **Backend & Core:** Python (Django, FastAPI), Node.js, Rust, C++, WebAssembly (WASM)
 - 🖥️ **Frontend:** React (TypeScript, JavaScript), Vite
-- 🗄️ **Databases:** PostgreSQL, Firebase
+- 🗄️ **Databases:** PostgreSQL, Firebase, Supabase
 - ⚙️ **DevOps & Tools:** Docker, Git, GitLab CI/CD, JIRA, LDAP, NPM Publishing
 
 🌟 **Highlighted projects**
