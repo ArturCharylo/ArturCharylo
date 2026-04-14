@@ -2,7 +2,7 @@
 
 🎓 **Junior Fullstack Developer** based in Szczecin, Poland  
 Passionate about building robust web applications, REST APIs, and Open Source tools. <br>
-Want to explore my portfolio webpage? [click here](https://portfolio-two-ashen-r194kayj1q.vercel.app/)
+Want to explore my portfolio webpage? [click here](https://artur-cha.vercel.app/)
 
 📌 **Internship experience**
 
