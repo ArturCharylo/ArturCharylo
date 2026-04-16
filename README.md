@@ -4,7 +4,10 @@
 Passionate about building robust web applications, REST APIs, and Open Source tools. <br>
 Want to explore my portfolio webpage? [click here](https://artur-cha.vercel.app/)
 
-📌 **Internship experience**
+📌 **Leadership & Experience**
+
+> **President @ [AppCraft Student Organization](https://www.wi.zut.edu.pl/pl/dla-studenta/sprawy-studenckie/kola-naukowe/appcraft)** (2026 – Present)  
+> Managing the organization, coordinating student-led software projects, and fostering a collaborative learning environment for aspiring developers.
 
 > Deployed GitLab & JIRA servers with Docker, integrated LDAP authentication,  
 > configured CI/CD pipelines, implemented monitoring & backup strategies,  
