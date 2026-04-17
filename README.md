@@ -81,7 +81,7 @@ Want to explore my portfolio webpage? [click here](https://artur-cha.vercel.app/
 
 📫 **Contact**
 
-- Email: [artur.cha@outlook.com](mailto:artur.cha@outlook.com)
+- Email: [artur.cha@outlook.com](mailto:artur.charylo@gmail.com)
 - 🔗 [My LinkedIn](https://www.linkedin.com/in/artur-charyło-9554a1373/)
 - Location: Szczecin, Poland (open to remote & stationary work)
 
