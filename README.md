@@ -9,6 +9,7 @@ Want to explore my portfolio webpage? [click here](https://artur-cha.vercel.app/
 > **President @ [AppCraft Student Organization](https://www.wi.zut.edu.pl/pl/dla-studenta/sprawy-studenckie/kola-naukowe/appcraft)** (2026 – Present)  
 > Managing the organization, coordinating student-led software projects, and fostering a collaborative learning environment for aspiring developers.
 
+🖥️ **Internship Experience**
 > Deployed GitLab & JIRA servers with Docker, integrated LDAP authentication,  
 > configured CI/CD pipelines, implemented monitoring & backup strategies,  
 > and delivered team training & full technical documentation.
@@ -26,12 +27,12 @@ Want to explore my portfolio webpage? [click here](https://artur-cha.vercel.app/
 
 🚀 **About me**
 
-- 🎓 IT technician with internship experience in DevOps and system setup
+- 🎓 Technician with hands-on experience in DevOps and systems administration.
 - 💻 Strong background in TypeScript, Node.js, Python, and modern Web APIs
 - 📦 **NPM Package Author** & Active Open Source Contributor
 - 🦀 Experience in combining Rust & WebAssembly for high-performance web solutions
 - 🌱 Keen to expand my tech stack and tackle complex engineering problems
-- 🔍 Looking for opportunities as a backend or full-stack developer (remote or on-site)
+- 🔍 Looking for Backend, Full-stack, Low-level, or DevOps developer roles (Remote or On-site).
 
 💡 **Tech stack**
 
@@ -47,7 +48,7 @@ Want to explore my portfolio webpage? [click here](https://artur-cha.vercel.app/
   - Solves critical Content Security Policy (CSP) issues by eliminating `unsafe-eval` in WASM glue code.
 
 - 🔐 **[Cryptono](https://github.com/ArturCharylo/Cryptono)**
-  - Password manager built as a Chrome Extension (Vite + Vanilla TS) focused on high security and clean architecture.
+  - A Chrome Extension password manager built with Vite + Vanilla TS + WASM(Rust & C++), focused on high security and clean architecture.
   - Powered by my own `argon2-extension-mv3` library for secure client-side encryption.
   - Features data compression and decompression on import/export achieved with the Brotli algorithm written in **Rust** and compiled into **WASM**.
 
@@ -81,7 +82,7 @@ Want to explore my portfolio webpage? [click here](https://artur-cha.vercel.app/
 
 📫 **Contact**
 
-- Email: [artur.cha@outlook.com](mailto:artur.charylo@gmail.com)
+- Email: [artur.charylo@gmail.com](mailto:artur.charylo@gmail.com)
 - 🔗 [My LinkedIn](https://www.linkedin.com/in/artur-charyło-9554a1373/)
 - Location: Szczecin, Poland (open to remote & stationary work)
 
