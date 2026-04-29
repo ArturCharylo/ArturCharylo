@@ -36,8 +36,8 @@ Want to explore my portfolio webpage? [click here](https://artur-cha.vercel.app/
 
 💡 **Tech stack**
 
-- 🖥️ **Backend & Core:** Python (Django, FastAPI), Node.js, Rust, C++, WebAssembly (WASM)
-- 🖥️ **Frontend:** React (TypeScript, JavaScript), Vite
+- 🖥️ **Backend & Core:** Python (Django, FastAPI), Node.js, Rust, C++, WebAssembly (WASM), Ruby
+- 🖥️ **Frontend:** React (TypeScript, JavaScript), Vite, Vue
 - 🗄️ **Databases:** PostgreSQL, Firebase, Supabase
 - ⚙️ **DevOps & Tools:** Docker, Git, GitLab CI/CD, JIRA, LDAP, NPM Publishing
 
