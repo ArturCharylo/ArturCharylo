@@ -72,7 +72,7 @@ Want to explore my portfolio webpage? [click here](https://artur-cha.vercel.app/
 🚀 **Currently learning**
 
 - 🏗️ **Software Architecture & Clean Code:** Focusing on scalable code structure, Design Patterns (OOP, DDD), effective refactoring, and comprehensive Unit Testing (Python & TypeScript).
-- 🦀 **Rust:** Deepening knowledge of memory safety, performance optimization, and advanced WebAssembly integrations.
+- 🦀 **Rust:** Deepening knowledge of memory safety, performance optimization, advanced WebAssembly integrations and file manipulation.
 - 📱 **Mobile Development:** Building cross-platform applications with Dart and Flutter.
   
 🌍 **Languages**
