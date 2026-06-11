@@ -57,6 +57,11 @@ Want to explore my portfolio webpage? [click here](https://artur-cha.vercel.app/
   - Implemented a scalable, multi-provider AI agent architecture using OOP patterns in TypeScript.
   - Added seamless integration support for OpenAI, Anthropic, and GitHub Copilot APIs.
 
+- 📅 **[keep-my-plans](https://github.com/ArturCharylo/keep-my-plans)** — _[Live Demo](https://keep-my-plans.vercel.app)_
+  - **Plan & Content Organizer:** A collaborative web application designed to organize and group open-ended personal plans, media recommendations       (movies, songs), and shared lists.
+  - Features dynamic, unlimited grouping structures to maintain clean, scalable categorization of user data.
+  - Built with a clean UI/UX focus to simplify media sharing and link preservation between groups of friends.
+    
 - 📝 **[ToDo_python](https://github.com/ArturCharylo/ToDo_python)**
   - A decoupled full-stack ecosystem demonstrating client-server architecture.
   - Features a Django REST Framework backend serving three different clients: React Web App, Python Desktop GUI, and a CLI application.
