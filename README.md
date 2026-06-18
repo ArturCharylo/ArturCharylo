@@ -6,8 +6,11 @@ Want to explore my portfolio webpage? [click here](https://artur-cha.vercel.app/
 
 📌 **Leadership & Experience**
 
-> **President @ [AppCraft Student Organization](https://www.wi.zut.edu.pl/pl/dla-studenta/sprawy-studenckie/kola-naukowe/appcraft)** (2026 – Present)  
+> **President @ [AppCraft Student Organization](https://www.wi.zut.edu.pl/pl/dla-studenta/sprawy-studenckie/kola-naukowe/appcraft)** (2025 – Present)  
 > Managing the organization, coordinating student-led software projects, and fostering a collaborative learning environment for aspiring developers.
+
+> **Team Leader @ Enactus ZUT** (2025 – Present)  
+> Formed and led the **first-ever** student team from the West Pomeranian voivodeship to compete in the Enactus National Competition. Managing project development, team alignment, and driving social-enterprise initiatives.
 
 🖥️ **Internship Experience**
 > Deployed GitLab & JIRA servers with Docker, integrated LDAP authentication,  
