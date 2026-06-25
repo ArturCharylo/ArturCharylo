@@ -20,7 +20,7 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 🎓 **Education**
 
 - **Technical School SCI** (IT Technician, bilingual program) — 2020–2025
-- **BSc in Computer Science**, West Pomeranian University of Technology (ZUT) — 2025–Present (Spec. Cloud Engineering)
+- **B.Sc. in Computer Science**, West Pomeranian University of Technology (ZUT) — 2025–Present (Spec. Cloud Engineering)
   
 ### 🏆 Certificate
 
