@@ -22,10 +22,13 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 - **Technical School SCI** (IT Technician, bilingual program) — 2020–2025
 - **B.Sc. in Computer Science**, West Pomeranian University of Technology (ZUT) — 2025–Present (Spec. Cloud Engineering)
   
-### 🏆 Certificate
+### 🏆 Certificates & Badges
 
-<p>
-  <img src="./images/certificate_rvue.fJFH.ORBo.png" alt="C++ Certificate" width="600"/>
+<p align="left">
+  <img src="./images/certificate_rvue.fJFH.ORBo.png" alt="C++ Certificate" height="250"/>
+  <a href="https://www.credly.com/badges/53dbf0f0-19dc-4117-88dc-8130e570afc4" target="_blank" rel="noopener noreferrer">
+    <img src="./images/aws-educate-introduction-to-cloud-101-training-badg.png" alt="AWS Educate Badge" height="250"/>
+  </a>
 </p>
 
 🚀 **About me**
