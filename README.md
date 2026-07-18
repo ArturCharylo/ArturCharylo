@@ -29,6 +29,9 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
   <a href="https://www.credly.com/badges/53dbf0f0-19dc-4117-88dc-8130e570afc4" target="_blank" rel="noopener noreferrer">
     <img src="./images/aws-educate-introduction-to-cloud-101-training-badg.png" alt="AWS Educate Badge" height="250"/>
   </a>
+  <a href="https://www.credly.com/badges/af5a3daa-92ff-4a83-8c8d-a39e39a5da1b/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="./images/aws-simulearn-cloud-practitioner-training-badge.png" alt="AWS SimuLearn - Cloud Practictioner Badge" height="250"/>
+  </a>
 </p>
 
 🚀 **About me**
