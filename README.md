@@ -4,6 +4,7 @@
 Passionate about building robust web applications, REST APIs, and Open Source tools, with a growing focus on cloud infrastructure.  
 Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/)
 
+<!-- Professional and leadership experience section should remain visible -->
 📌 **Leadership & Experience**
 
 > **President @ [AppCraft Student Organization](https://www.wi.zut.edu.pl/pl/dla-studenta/sprawy-studenckie/kola-naukowe/appcraft)** (2025 – Present)  
@@ -17,6 +18,11 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 > configured CI/CD pipelines, implemented monitoring & backup strategies,  
 > and delivered team training & full technical documentation.
 
+<details>
+<summary><b>🎓 Education, Certificates & Badges</b></summary>
+<br>
+
+<!-- Education history and certifications can be collapsed to save vertical space -->
 🎓 **Education**
 
 - **Technical School SCI** (IT Technician, bilingual program) — 2020–2025
@@ -33,7 +39,11 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
     <img src="./images/aws-simulearn-cloud-practitioner-training-badge.png" alt="AWS SimuLearn - Cloud Practictioner Badge" height="250"/>
   </a>
 </p>
+</details>
 
+<br>
+
+<!-- Personal info and technology stack should be immediately scannable -->
 🚀 **About me**
 
 - 🎓 IT Technician with hands-on experience in DevOps, Linux administration, and CI/CD environments.
@@ -48,8 +58,11 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 - 🖥️ **Backend & Core:** Python (Django, FastAPI), Node.js, Rust, C++, WebAssembly (WASM), Ruby
 - 🖥️ **Frontend:** React (TypeScript, JavaScript), Vite, Vue
 - 🗄️ **Databases:** PostgreSQL, Firebase, Supabase
-- ⚙️ **DevOps & Cloud:** Docker, Git, GitLab CI/CD, JIRA, LDAP, NPM Publishing
+- ⚙️ **DevOps & Cloud:** Docker, Kubernetes, Jenkins, Prometheus, Grafana, Git, GitLab CI/CD, Microsoft Azure, JIRA, LDAP, NPM Publishing
 
+<br>
+
+<!-- Key projects must be highly visible to showcase real-world skills -->
 🌟 **Highlighted projects**
 
 - 📦 **[argon2-extension-mv3](https://github.com/ArturCharylo/argon2-extension-mv3)** [![npm](https://img.shields.io/npm/v/argon2-extension-mv3.svg?style=flat-square&label=npm)](https://www.npmjs.com/package/argon2-extension-mv3)
@@ -75,6 +88,11 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
   - A decoupled full-stack ecosystem demonstrating client-server architecture.
   - Features a Django REST Framework backend serving three different clients: React Web App, Python Desktop GUI, and a CLI application.
 
+<details>
+<summary><b>📊 GitHub Stats</b></summary>
+<br>
+
+<!-- GitHub statistics are visual but not critical for first-glance scanning -->
 ### 📊 GitHub Stats
 
 ![Artur's GitHub stats](https://readme-stats-ruby-iota.vercel.app/api?username=ArturCharylo&show_icons=true&theme=radical)
@@ -82,10 +100,14 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 ![GitHub Streak](https://github-readme-streak-stats-pi-eight.vercel.app/?user=ArturCharylo&theme=radical)
 
 ![Top Langs](https://readme-stats-ruby-iota.vercel.app/api/top-langs/?username=ArturCharylo&layout=compact&theme=radical)
+</details>
 
+<br>
+
+<!-- Learning goals and languages show continuous growth -->
 🚀 **Currently learning**
 
-- 🏗️ **Cloud Engineering & IaC:** Diving deep into cloud infrastructure (AWS), Infrastructure as Code (Terraform), and microservices orchestration.
+- 🏗️ **Cloud Engineering & IaC:** Diving deep into cloud infrastructure (AWS, Microsoft Azure), Infrastructure as Code (Terraform), Kubernetes and microservices orchestration.
 - 🏛️ **Software Architecture:** Focusing on scalable architecture, Design Patterns (OOP, DDD), effective refactoring, and comprehensive Unit Testing.
 - 🦀 **Rust:** Deepening knowledge of memory safety, performance optimization, and advanced WebAssembly integrations.
 - 📱 **Mobile Development:** Building cross-platform applications with Dart and Flutter.
@@ -94,6 +116,8 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 
 - Polish (Native)
 - English (Fluent, C1/C2)
+
+<br>
 
 📫 **Contact**
 
