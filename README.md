@@ -71,9 +71,10 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
   - Features dynamic, unlimited grouping structures to maintain clean, scalable categorization of user data.
   - Built with a clean UI/UX focus to simplify media sharing and link preservation between groups of friends.
     
-- 📝 **[ToDo_python](https://github.com/ArturCharylo/ToDo_python)**
-  - A decoupled full-stack ecosystem demonstrating client-server architecture.
-  - Features a Django REST Framework backend serving three different clients: React Web App, Python Desktop GUI, and a CLI application.
+- 🚗 **[CarCanSim](https://github.com/ArturCharylo/CarCanSim)**
+  - **Telemetry & CAN Simulator:** High-performance OBD-II/CAN telemetry simulation app built with **Rust**, containerized with Docker, and orchestrated on Kubernetes.
+  - Features a fully automated CI/CD pipeline integrated with self-hosted Gitea, Jenkins (DinD), and real-time observability via Prometheus & Grafana.
+  - Engineered for optimal resource management (WSL2 hardware memory caps & JVM limits) and configured with NGINX Ingress routing.
 
 ### 📊 GitHub Stats
 
