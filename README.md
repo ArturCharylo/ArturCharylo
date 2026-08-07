@@ -52,14 +52,19 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 
 🌟 **Highlighted projects**
 
-- 📦 **[argon2-extension-mv3](https://github.com/ArturCharylo/argon2-extension-mv3)** [![npm](https://img.shields.io/npm/v/argon2-extension-mv3.svg?style=flat-square&label=npm)](https://www.npmjs.com/package/argon2-extension-mv3)
-  - **NPM Library:** Secure, WebAssembly-based Argon2id implementation compatible with Chrome Extension Manifest V3.
-  - Solves critical Content Security Policy (CSP) issues by eliminating `unsafe-eval` in WASM glue code.
+- 🚗 **[CarCanSim](https://github.com/ArturCharylo/CarCanSim)**
+  - **Telemetry & CAN Simulator:** High-performance OBD-II/CAN telemetry simulation app built with **Rust**, containerized with Docker, and orchestrated on Kubernetes.
+  - Features a fully automated CI/CD pipeline integrated with self-hosted Gitea, Jenkins (DinD), and real-time observability via Prometheus & Grafana.
+  - Engineered for optimal resource management (WSL2 hardware memory caps & JVM limits) and configured with NGINX Ingress routing.
 
 - 🔐 **[Cryptono](https://github.com/ArturCharylo/Cryptono)**
   - A Chrome Extension password manager built with Vite + Vanilla TS + WASM (Rust & C++), focused on high security and clean architecture.
   - Powered by my own `argon2-extension-mv3` library for secure client-side encryption.
   - Features data compression and decompression on import/export achieved with the Brotli algorithm written in **Rust** and compiled into **WASM**.
+
+- 📦 **[argon2-extension-mv3](https://github.com/ArturCharylo/argon2-extension-mv3)** [![npm](https://img.shields.io/npm/v/argon2-extension-mv3.svg?style=flat-square&label=npm)](https://www.npmjs.com/package/argon2-extension-mv3)
+  - **NPM Library:** Secure, WebAssembly-based Argon2id implementation compatible with Chrome Extension Manifest V3.
+  - Solves critical Content Security Policy (CSP) issues by eliminating `unsafe-eval` in WASM glue code.
 
 - 🤖 **[quote-cli (Open Source Contribution)](https://github.com/ArturCharylo/quote-cli)**
   - Active contributor to an open-source CLI tool.
@@ -70,11 +75,6 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
   - **Plan & Content Organizer:** A collaborative web application designed to organize personal plans, media recommendations, and shared lists.
   - Features dynamic, unlimited grouping structures to maintain clean, scalable categorization of user data.
   - Built with a clean UI/UX focus to simplify media sharing and link preservation between groups of friends.
-    
-- 🚗 **[CarCanSim](https://github.com/ArturCharylo/CarCanSim)**
-  - **Telemetry & CAN Simulator:** High-performance OBD-II/CAN telemetry simulation app built with **Rust**, containerized with Docker, and orchestrated on Kubernetes.
-  - Features a fully automated CI/CD pipeline integrated with self-hosted Gitea, Jenkins (DinD), and real-time observability via Prometheus & Grafana.
-  - Engineered for optimal resource management (WSL2 hardware memory caps & JVM limits) and configured with NGINX Ingress routing.
 
 ### 📊 GitHub Stats
 
@@ -86,7 +86,7 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 
 🚀 **Currently learning**
 
-- 🏗️ **Cloud Engineering & IaC:** Diving deep into cloud infrastructure (AWS), Infrastructure as Code (Terraform), and microservices orchestration.
+- 🏗️ **Cloud Engineering & IaC:** Diving deep into cloud infrastructure (AWS, Azure), Infrastructure as Code (Terraform), and microservices orchestration.
 - 🏛️ **Software Architecture:** Focusing on scalable architecture, Design Patterns (OOP, DDD), effective refactoring, and comprehensive Unit Testing.
 - 🦀 **Rust:** Deepening knowledge of memory safety, performance optimization, and advanced WebAssembly integrations.
 - 📱 **Mobile Development:** Building cross-platform applications with Dart and Flutter.
@@ -99,7 +99,7 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 📫 **Contact**
 
 - Email: [artur.charylo@gmail.com](mailto:artur.charylo@gmail.com)
-- 🔗 [My LinkedIn](https://www.linkedin.com/in/artur-chary%C5%82o-9554a1373/)
+- My LinkedIn: [www.linkedin.com/in/artur-charylo](https://www.linkedin.com/in/artur-charylo)
 - Location: Szczecin, Poland (Open to remote & hybrid/stationary work)
 
 ---
