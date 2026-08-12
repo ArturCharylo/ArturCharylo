@@ -48,7 +48,8 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 - 🖥️ **Backend & Core:** Python (Django, FastAPI), Node.js, Rust, C++, WebAssembly (WASM), Ruby
 - 🖥️ **Frontend:** React (TypeScript, JavaScript), Vite, Vue
 - 🗄️ **Databases:** PostgreSQL, Firebase, Supabase
-- ⚙️ **DevOps & Cloud:** Docker, Git, GitLab CI/CD, JIRA, LDAP, NPM Publishing
+- ⚙️ **DevOps & CI/CD:** Docker, Kubernetes, Git, GitLab CI/CD, JIRA, LDAP, NPM Publishing, Jenkins, Gitea, Azure Devops
+- ☁️ **Cloud & Observability:** AWS, Azure Cloud, Prometheus, Grafana
 
 🌟 **Highlighted projects**
 
