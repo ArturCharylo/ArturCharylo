@@ -54,9 +54,9 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 🌟 **Highlighted projects**
 
 - 🚗 **[CarCanSim](https://github.com/ArturCharylo/CarCanSim)**
-  - **Telemetry & CAN Simulator:** High-performance OBD-II/CAN telemetry simulation app built with **Rust**, containerized with Docker, and orchestrated on Kubernetes.
-  - Features a fully automated CI/CD pipeline integrated with self-hosted Gitea, Jenkins (DinD), and real-time observability via Prometheus & Grafana.
-  - Engineered for optimal resource management (WSL2 hardware memory caps & JVM limits) and configured with NGINX Ingress routing.
+  - **Cloud-Native Telemetry Engine & GitOps Infrastructure:** High-performance OBD-II/CAN simulation built with **Rust**, containerized with Docker, and deployed via a hybrid cloud model.
+  - **Multi-Stage CI/CD & Cloud Deployment:** Automated Azure DevOps YAML pipeline deploying serverless revisions to **Azure Container Apps (ACA)** and **Azure Container Registry (ACR)** via **Terraform IaC**, optimized with non-interactive Service Principal auth and scale-to-zero ($0 baseline).
+  - **Local Kubernetes & GitOps:** Configured on local **Kind** with **ArgoCD**, **NGINX Ingress**, and end-to-end observability powered by **Prometheus** and **Grafana** (`/metrics` scraping).
 
 - 🔐 **[Cryptono](https://github.com/ArturCharylo/Cryptono)**
   - A Chrome Extension password manager built with Vite + Vanilla TS + WASM (Rust & C++), focused on high security and clean architecture.
