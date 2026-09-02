@@ -13,6 +13,9 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 > Formed and led the **first-ever** student team from the West Pomeranian voivodeship to compete in the Enactus National Competition. Managing project development, team alignment, and driving social-enterprise initiatives.
 
 🖥️ **Internship Experience**
+
+> **DevOps Intern @ Kongsberg Maritime Poland** (Present) 
+
 > Deployed GitLab & JIRA servers with Docker, integrated LDAP authentication,  
 > configured CI/CD pipelines, implemented monitoring & backup strategies,  
 > and delivered team training & full technical documentation.
