@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Artur Charyło
 
-🎓 **Junior Fullstack Developer & Aspiring Cloud Engineer** based in Szczecin, Poland  
-Passionate about building robust web applications, REST APIs, and Open Source tools, with a growing focus on cloud infrastructure.  
+🎓 **Junior Software & Cloud/DevOps Engineer** based in Szczecin, Poland  
+Passionate about building scalable cloud infrastructure, automated CI/CD pipelines, and high-performance backend systems.  
 Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/)
 
-📌 **Leadership & Experience**
+### 📌 Leadership & Experience
 
 > **President @ [AppCraft Student Organization](https://www.wi.zut.edu.pl/pl/dla-studenta/sprawy-studenckie/kola-naukowe/appcraft)** (2025 – Present)  
 > Managing the organization, coordinating student-led software projects, and fostering a collaborative learning environment for aspiring developers.
@@ -12,15 +12,19 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 > **Team Leader @ Enactus ZUT** (2025 – Present)  
 > Formed and led the **first-ever** student team from the West Pomeranian voivodeship to compete in the Enactus National Competition. Managing project development, team alignment, and driving social-enterprise initiatives.
 
-🖥️ **Internship Experience**
+### 🖥️ Internship Experience
 
-> **DevOps Intern @ Kongsberg Maritime Poland** (Present) 
+> **DevOps Intern @ Kongsberg Maritime Poland** (Present)  
+> - Managing Kubernetes clusters  
+> - Running artifact verification via JFrog Artifactory & X-Ray  
+> - Designing and maintaining reusable CI/CD pipeline templates
 
-> Deployed GitLab & JIRA servers with Docker, integrated LDAP authentication,  
-> configured CI/CD pipelines, implemented monitoring & backup strategies,  
-> and delivered team training & full technical documentation.
+> **School internship - DevOps Intern (2023)**
+> - Deployed GitLab & JIRA servers with Docker, integrated LDAP authentication 
+> - Configured CI/CD pipelines, implemented monitoring & backup strategies
+> - Delivered team training & full technical documentation
 
-🎓 **Education**
+### 🎓 Education
 
 - **Technical School SCI** (IT Technician, bilingual program) — 2020–2025
 - **B.Sc. in Computer Science**, West Pomeranian University of Technology (ZUT) — 2025–Present (Spec. Cloud Engineering)
@@ -33,11 +37,11 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
     <img src="./images/aws-educate-introduction-to-cloud-101-training-badg.png" alt="AWS Educate Badge" height="250"/>
   </a>
   <a href="https://www.credly.com/badges/af5a3daa-92ff-4a83-8c8d-a39e39a5da1b/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="./images/aws-simulearn-cloud-practitioner-training-badge.png" alt="AWS SimuLearn - Cloud Practictioner Badge" height="250"/>
+    <img src="./images/aws-simulearn-cloud-practitioner-training-badge.png" alt="AWS SimuLearn - Cloud Practitioner Badge" height="250"/>
   </a>
 </p>
 
-🚀 **About me**
+### 🚀 About me
 
 - 🎓 IT Technician with hands-on experience in DevOps, Linux administration, and CI/CD environments.
 - 💻 Strong background in TypeScript, Node.js, Python, and modern Web APIs.
@@ -46,15 +50,15 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 - ☁️ Actively shifting towards Cloud Engineering, focusing on scalable infrastructure and automation.
 - 🔍 Looking for Backend, DevOps, or Cloud-focused roles (Remote or On-site).
 
-💡 **Tech stack**
+### 💡 Tech stack
 
 - 🖥️ **Backend & Core:** Python (Django, FastAPI), Node.js, Rust, C++, WebAssembly (WASM), Ruby
 - 🖥️ **Frontend:** React (TypeScript, JavaScript), Vite, Vue
 - 🗄️ **Databases:** PostgreSQL, Firebase, Supabase
-- ⚙️ **DevOps & CI/CD:** Docker, Kubernetes, Git, GitLab CI/CD, JIRA, LDAP, NPM Publishing, Jenkins, Gitea, Azure Devops
+- ⚙️ **DevOps & CI/CD:** Docker, Kubernetes, Git, GitLab CI/CD, JIRA, LDAP, NPM Publishing, Jenkins, Gitea, Azure DevOps
 - ☁️ **Cloud & Observability:** AWS, Azure Cloud, Prometheus, Grafana
 
-🌟 **Highlighted projects**
+## 🌟 Highlighted projects
 
 - 🚗 **[CarCanSim](https://github.com/ArturCharylo/CarCanSim)**
   - **Cloud-Native Telemetry Engine & GitOps Infrastructure:** High-performance OBD-II/CAN simulation built with **Rust**, containerized with Docker, and deployed via a hybrid cloud model.
@@ -88,19 +92,19 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 
 ![Top Langs](https://readme-stats-ruby-iota.vercel.app/api/top-langs/?username=ArturCharylo&layout=compact&theme=radical)
 
-🚀 **Currently learning**
+### 🚀 Currently learning
 
 - 🏗️ **Cloud Engineering & IaC:** Diving deep into cloud infrastructure (AWS, Azure), Infrastructure as Code (Terraform), and microservices orchestration.
 - 🏛️ **Software Architecture:** Focusing on scalable architecture, Design Patterns (OOP, DDD), effective refactoring, and comprehensive Unit Testing.
 - 🦀 **Rust:** Deepening knowledge of memory safety, performance optimization, and advanced WebAssembly integrations.
 - 📱 **Mobile Development:** Building cross-platform applications with Dart and Flutter.
   
-🌍 **Languages**
+### 🌍 Languages
 
 - Polish (Native)
 - English (Fluent, C1/C2)
 
-📫 **Contact**
+### 📫 Contact
 
 - Email: [artur.charylo@gmail.com](mailto:artur.charylo@gmail.com)
 - My LinkedIn: [www.linkedin.com/in/artur-charylo](https://www.linkedin.com/in/artur-charylo)
