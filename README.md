@@ -15,10 +15,10 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 ### 🖥️ Internship Experience
 
 > **DevOps Intern @ Kongsberg Maritime Poland** (Present)  
-> - Orchestrated containerized workloads via Docker Compose and configured metrics/monitoring with Prometheus & Grafana
-> - Implemented container vulnerability scanning using Trivy within Azure DevOps, pushing vetted images to Dev and Prod ACR
-> - Enhanced supply chain security by automating container and web app signing with Azure Key Vault intermediate certificates
-> - Designed architecture diagrams and maintained comprehensive engineering documentation
+> - Orchestrated containerized workloads via Docker Compose; configured observability, metrics, and multi-channel alerting using Prometheus & Grafana  
+> - Implemented DevSecOps pipelines with Trivy for vulnerability scanning, automated SBOM generation, and gated image delivery to Dev/Prod ACR  
+> - Strengthened software supply chain security by automating artifact and container signing utilizing Cosign and intermediate certificates backed by Azure Key Vault  
+> - Designed system architecture diagrams and authored comprehensive engineering documentation
 
 > **School internship - DevOps Intern (2023)**
 > - Deployed GitLab & JIRA servers with Docker, integrated LDAP authentication 
