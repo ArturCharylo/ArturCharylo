@@ -14,11 +14,12 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 
 ### 🖥️ Internship Experience
 
-> **DevOps Intern @ Kongsberg Maritime Poland** (Present)  
-> - Orchestrated containerized workloads via Docker Compose; configured observability, metrics, and multi-channel alerting using Prometheus & Grafana  
-> - Implemented DevSecOps pipelines with Trivy for vulnerability scanning, automated SBOM generation, and gated image delivery to Dev/Prod ACR  
-> - Strengthened software supply chain security by automating artifact and container signing utilizing Cosign and intermediate certificates backed by Azure Key Vault  
-> - Designed system architecture diagrams and authored comprehensive engineering documentation
+> **DevOps Intern @ Kongsberg Maritime Poland** (Sep 2026)  
+> - Designed and deployed Kubernetes environments (Kind & Helm) featuring automated HPA scaling, cAdvisor, and NGINX Ingress routing.
+> - Built multi-stage Azure DevOps CI/CD pipelines enforcing automated DevSecOps gates (Trivy `CRITICAL = 0` policy for PROD), SBOM CycloneDX generation, and gated image delivery to Dev/Prod ACR.
+> - Automated artifact and container signing workflows utilizing Cosign and intermediate TLS certificates backed by Azure Key Vault.
+> - Engineered an observability pipeline pushing Trivy & SBOM metrics via Prometheus Pushgateway to Grafana, configuring multi-channel alerts and custom dashboards.
+> - Authored reusable Azure DevOps YAML pipeline templates for C++/CMake services automating building, Trivy security scanning, unit testing, code coverage publishing, and binary artifact distribution.
 
 > **School internship - DevOps Intern (2023)**
 > - Deployed GitLab & JIRA servers with Docker, integrated LDAP authentication 
@@ -56,10 +57,14 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 - 🖥️ **Backend & Core:** Python (Django, FastAPI), Node.js, Rust, C++, WebAssembly (WASM), Ruby
 - 🖥️ **Frontend:** React (TypeScript, JavaScript), Vite, Vue
 - 🗄️ **Databases:** PostgreSQL, Firebase, Supabase
-- ⚙️ **DevOps & CI/CD:** Docker, Kubernetes, Git, GitLab CI/CD, JIRA, LDAP, NPM Publishing, Jenkins, Gitea, Azure DevOps
+- ⚙️ **DevOps & CI/CD:** Docker, Kubernetes, Git, GitLab CI/CD, JIRA, LDAP, NPM Publishing, Jenkins, Gitea, Azure DevOps, Helm, Trivy, Cosign
 - ☁️ **Cloud & Observability:** AWS, Azure Cloud, Prometheus, Grafana
 
 ## 🌟 Highlighted projects
+
+- 🛡️ **[kongsberg-devops-pipeline](https://github.com/ArturCharylo/kongsberg)**
+  - **EU CRA-Compliant DevSecOps & Supply Chain Security:** Enterprise-grade Azure DevOps CI/CD pipeline featuring automated vulnerability gates (`CRITICAL = 0`), CycloneDX SBOM generation, and cryptographic signing with Cosign & Azure Key Vault.
+  - **Kubernetes & Cloud Observability:** Multi-environment deployments via Helm to local Kind clusters with HPA autoscaling, NGINX Ingress, and HTTPS termination; integrated Prometheus Pushgateway to stream CVE and SBOM metrics directly into Grafana alert dashboards.
 
 - 🚗 **[CarCanSim](https://github.com/ArturCharylo/CarCanSim)**
   - **Cloud-Native Telemetry Engine & GitOps Infrastructure:** High-performance OBD-II/CAN simulation built with **Rust**, containerized with Docker, and deployed via a hybrid cloud model.
@@ -80,11 +85,6 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
   - Implemented a scalable, multi-provider AI agent architecture using OOP patterns in TypeScript.
   - Added seamless integration support for OpenAI, Anthropic, and GitHub Copilot APIs.
 
-- 📅 **[keep-my-plans](https://github.com/ArturCharylo/keep-my-plans)** — _[Live Demo](https://keep-my-plans.vercel.app)_
-  - **Plan & Content Organizer:** A collaborative web application designed to organize personal plans, media recommendations, and shared lists.
-  - Features dynamic, unlimited grouping structures to maintain clean, scalable categorization of user data.
-  - Built with a clean UI/UX focus to simplify media sharing and link preservation between groups of friends.
-
 ### 📊 GitHub Stats
 
 ![Artur's GitHub stats](https://readme-stats-ruby-iota.vercel.app/api?username=ArturCharylo&show_icons=true&theme=radical)
@@ -95,10 +95,9 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 
 ### 🚀 Currently learning
 
-- 🏗️ **Cloud Engineering & IaC:** Diving deep into cloud infrastructure (AWS, Azure), Infrastructure as Code (Terraform), and microservices orchestration.
+- 🏗️ **Cloud Engineering & IaC:** Diving deep into cloud infrastructure (AWS, Azure), Infrastructure as Code (Terraform).
 - 🏛️ **Software Architecture:** Focusing on scalable architecture, Design Patterns (OOP, DDD), effective refactoring, and comprehensive Unit Testing.
 - 🦀 **Rust:** Deepening knowledge of memory safety, performance optimization, and advanced WebAssembly integrations.
-- 📱 **Mobile Development:** Building cross-platform applications with Dart and Flutter.
   
 ### 🌍 Languages
 
