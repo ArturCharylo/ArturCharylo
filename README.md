@@ -1,16 +1,40 @@
 # 👋 Hi, I'm Artur Charyło
 
-🎓 **Junior Software & Cloud/DevOps Engineer** based in Szczecin, Poland  
-Passionate about building scalable cloud infrastructure, automated CI/CD pipelines, and high-performance backend systems.  
-Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/)
+🎓 **Junior Cloud/DevOps & Software Engineer** based in Szczecin, Poland  
+Specializing in automated delivery pipelines, Kubernetes orchestration, and supply-chain security (EU CRA compliance, automated CVE gates). I bridge Infrastructure as Code (Terraform, Azure/AWS) with high-efficiency backend services.
+
+🔗 [Explore my Portfolio](https://artur-cha.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/artur-charylo)
+
+---
+
+### 🚀 About Me
+
+- ☁️ **Cloud & DevOps Focus:** Hands-on experience with Kubernetes, Terraform IaC, multi-cloud (Azure, AWS), and enterprise DevSecOps pipelines.
+- 🦀 **Systems & Performance:** Building low-level modules, telemetry engines, and WebAssembly integrations with Rust and C++.
+- 📦 **Open Source & Author:** Published [`argon2-extension-mv3`](https://www.npmjs.com/package/argon2-extension-mv3) on npm; active open-source contributor.
+- 🎓 **Academic & Leadership:** Computer Science undergraduate (Cloud Engineering spec.) at ZUT; President of APPCRAFT Student Organization and Enactus Team Leader.
+- 🔍 **Open to Roles:** Cloud, DevOps, or Backend Engineering (Remote, Hybrid, or On-site).
+
+---
+
+### 💡 Tech Stack
+
+- ⚙️ **Cloud & DevOps:** Docker, Kubernetes (Kind, Helm), Terraform, Azure DevOps, GitLab CI/CD, ArgoCD, Linux, AWS, Azure Cloud
+- 🛡️ **DevSecOps & Observability:** Trivy, CycloneDX SBOM, Cosign, Azure Key Vault, Prometheus, Grafana
+- 🖥️ **Backend & Systems:** Rust, C++, WebAssembly (WASM), Python (FastAPI, Django), Node.js / TypeScript
+- 🗄️ **Databases & Tools:** PostgreSQL, Supabase, Git, NGINX
+
+---
 
 ### 📌 Leadership & Experience
 
 > **President @ [AppCraft Student Organization](https://www.wi.zut.edu.pl/pl/dla-studenta/sprawy-studenckie/kola-naukowe/appcraft)** (2025 – Present)  
-> Managing the organization, coordinating student-led software projects, and fostering a collaborative learning environment for aspiring developers.
+> Managing the organization, coordinating student-led software projects, and fostering a collaborative technical community for aspiring developers.
 
 > **Team Leader @ Enactus ZUT** (2025 – Present)  
-> Formed and led the **first-ever** student team from the West Pomeranian voivodeship to compete in the Enactus National Competition. Managing project development, team alignment, and driving social-enterprise initiatives.
+> Formed and led the **first-ever** student team from West Pomerania to compete in the Enactus National Competition. Directing project architecture and cross-functional team execution.
+
+---
 
 ### 🖥️ Internship Experience
 
@@ -21,46 +45,14 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
 > - Engineered an observability pipeline pushing Trivy & SBOM metrics via Prometheus Pushgateway to Grafana, configuring multi-channel alerts and custom dashboards.
 > - Authored reusable Azure DevOps YAML pipeline templates for C++/CMake services automating building, Trivy security scanning, unit testing, code coverage publishing, and binary artifact distribution.
 
-> **School internship - DevOps Intern (2023)**
-> - Deployed GitLab & JIRA servers with Docker, integrated LDAP authentication 
-> - Configured CI/CD pipelines, implemented monitoring & backup strategies
-> - Delivered team training & full technical documentation
+> **DevOps Intern @ SCI** (2023)  
+> - Deployed on-premise GitLab and Jira servers using Docker and Linux, integrating LDAP directory authentication.  
+> - Configured CI/CD pipeline triggers and implemented automated backup and disaster-recovery strategies.  
+> - Delivered team training and maintained comprehensive technical documentation.
 
-### 🎓 Education
+---
 
-- **Technical School SCI** (IT Technician, bilingual program) — 2020–2025
-- **B.Sc. in Computer Science**, West Pomeranian University of Technology (ZUT) — 2025–Present (Spec. Cloud Engineering)
-  
-### 🏆 Certificates & Badges
-
-<p align="left">
-  <img src="./images/certificate_rvue.fJFH.ORBo.png" alt="C++ Certificate" height="250"/>
-  <a href="https://www.credly.com/badges/53dbf0f0-19dc-4117-88dc-8130e570afc4" target="_blank" rel="noopener noreferrer">
-    <img src="./images/aws-educate-introduction-to-cloud-101-training-badg.png" alt="AWS Educate Badge" height="250"/>
-  </a>
-  <a href="https://www.credly.com/badges/af5a3daa-92ff-4a83-8c8d-a39e39a5da1b/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="./images/aws-simulearn-cloud-practitioner-training-badge.png" alt="AWS SimuLearn - Cloud Practitioner Badge" height="250"/>
-  </a>
-</p>
-
-### 🚀 About me
-
-- 🎓 IT Technician with hands-on experience in DevOps, Linux administration, and CI/CD environments.
-- 💻 Strong background in TypeScript, Node.js, Python, and modern Web APIs.
-- 📦 **NPM Package Author** & Active Open Source Contributor.
-- 🦀 Experience in combining Rust & WebAssembly for high-performance web solutions.
-- ☁️ Actively shifting towards Cloud Engineering, focusing on scalable infrastructure and automation.
-- 🔍 Looking for Backend, DevOps, or Cloud-focused roles (Remote or On-site).
-
-### 💡 Tech stack
-
-- 🖥️ **Backend & Core:** Python (Django, FastAPI), Node.js, Rust, C++, WebAssembly (WASM), Ruby
-- 🖥️ **Frontend:** React (TypeScript, JavaScript), Vite, Vue
-- 🗄️ **Databases:** PostgreSQL, Firebase, Supabase
-- ⚙️ **DevOps & CI/CD:** Docker, Kubernetes, Git, GitLab CI/CD, JIRA, LDAP, NPM Publishing, Jenkins, Gitea, Azure DevOps, Helm, Trivy, Cosign
-- ☁️ **Cloud & Observability:** AWS, Azure Cloud, Prometheus, Grafana
-
-## 🌟 Highlighted projects
+## 🌟 Highlighted Projects
 
 - 🛡️ **[kongsberg-devops-pipeline](https://github.com/ArturCharylo/kongsberg)**
   - **EU CRA-Compliant DevSecOps & Supply Chain Security:** Enterprise-grade Azure DevOps CI/CD pipeline featuring automated vulnerability gates (`CRITICAL = 0`), CycloneDX SBOM generation, and cryptographic signing with Cosign & Azure Key Vault.
@@ -85,31 +77,33 @@ Want to explore my portfolio webpage? [Click here](https://artur-cha.vercel.app/
   - Implemented a scalable, multi-provider AI agent architecture using OOP patterns in TypeScript.
   - Added seamless integration support for OpenAI, Anthropic, and GitHub Copilot APIs.
 
-### 📊 GitHub Stats
+---
 
-![Artur's GitHub stats](https://readme-stats-ruby-iota.vercel.app/api?username=ArturCharylo&show_icons=true&theme=radical)
+### 🎓 Education & Certifications
 
-![GitHub Streak](https://github-readme-streak-stats-pi-eight.vercel.app/?user=ArturCharylo&theme=radical)
+- **B.Sc. in Computer Science**, West Pomeranian University of Technology (ZUT) — 2025–Present (Spec. Cloud Engineering)
+- **Technical School SCI** (IT Technician, bilingual program) — 2020–2025
 
-![Top Langs](https://readme-stats-ruby-iota.vercel.app/api/top-langs/?username=ArturCharylo&layout=compact&theme=radical)
-
-### 🚀 Currently learning
-
-- 🏗️ **Cloud Engineering & IaC:** Diving deep into cloud infrastructure (AWS, Azure), Infrastructure as Code (Terraform).
-- 🏛️ **Software Architecture:** Focusing on scalable architecture, Design Patterns (OOP, DDD), effective refactoring, and comprehensive Unit Testing.
-- 🦀 **Rust:** Deepening knowledge of memory safety, performance optimization, and advanced WebAssembly integrations.
-  
-### 🌍 Languages
-
-- Polish (Native)
-- English (Fluent, C1/C2)
-
-### 📫 Contact
-
-- Email: [artur.charylo@gmail.com](mailto:artur.charylo@gmail.com)
-- My LinkedIn: [www.linkedin.com/in/artur-charylo](https://www.linkedin.com/in/artur-charylo)
-- Location: Szczecin, Poland (Open to remote & hybrid/stationary work)
+<p align="left">
+  <img src="./images/certificate_rvue.fJFH.ORBo.png" alt="C++ Certificate" height="250"/>
+  <a href="https://www.credly.com/badges/53dbf0f0-19dc-4117-88dc-8130e570afc4" target="_blank" rel="noopener noreferrer">
+    <img src="./images/aws-educate-introduction-to-cloud-101-training-badg.png" alt="AWS Educate Badge" height="250"/>
+  </a>
+  <a href="https://www.credly.com/badges/af5a3daa-92ff-4a83-8c8d-a39e39a5da1b/public_url" target="_blank" rel="noopener noreferrer">
+    <img src="./images/aws-simulearn-cloud-practitioner-training-badge.png" alt="AWS SimuLearn - Cloud Practitioner Badge" height="250"/>
+  </a>
+</p>
 
 ---
 
-⭐ _Feel free to explore my repositories below!_
+### 📊 GitHub Stats
+
+![Artur's GitHub stats](https://readme-stats-ruby-iota.vercel.app/api?username=ArturCharylo&show_icons=true&theme=radical)<br>
+![GitHub Streak](https://github-readme-streak-stats-pi-eight.vercel.app/?user=ArturCharylo&theme=radical)<br>
+![Top Langs](https://readme-stats-ruby-iota.vercel.app/api/top-langs/?username=ArturCharylo&layout=compact&theme=radical)
+
+### 📫 Contact
+
+- **Email:** [artur.charylo@gmail.com](mailto:artur.charylo@gmail.com)
+- **LinkedIn:** [linkedin.com/in/artur-charylo](https://www.linkedin.com/in/artur-charylo)
+- **Location:** Szczecin, Poland (Open to Remote / Hybrid / On-site)
